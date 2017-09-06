@@ -8,3 +8,4 @@ E:\Studing\izvp\lab_1\izvp_lab1\izvp_lab1\bin\Debug\izvp_lab1.exe
 E:\Studing\izvp\lab_1\izvp_lab1\izvp_lab1\bin\Debug\izvp_lab1.pdb
 E:\Studing\izvp\lab_1\izvp_lab1\izvp_lab1\obj\Debug\izvp_lab1.exe
 E:\Studing\izvp\lab_1\izvp_lab1\izvp_lab1\obj\Debug\izvp_lab1.pdb
+E:\Studing\izvp\lab_1\izvp_lab1\izvp_lab1\obj\Debug\izvp_lab1.Form2.resources
